@@ -1,3 +1,5 @@
+package firsttask;
+
 public class HelloWorld {
     public static void main(String[] args) {
         // 1.1 - 1.4
